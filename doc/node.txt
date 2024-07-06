@@ -1,0 +1,14 @@
+npm init -y 
+"type": "module",
+
+npm i -D nodemon 
+ "dev": "nodemon index.js"
+npm run dev
+
+
+get
+http://localhost:3000/api/v1/products
+
+
+post
+http://localhost:3000/api/v1/products/multiImg
